@@ -1,0 +1,64 @@
+
+
+header{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+header img{
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+.navbar a{
+	font-weight: bold;
+	font-family: Times New Roman
+}
+
+
+ .navbar-nav.navbar-center {
+    padding-left: 150px;
+  }
+
+.main{
+	background: #7E797C url(C:\Users\Nisha Knyal\Documents\Nisha-La Polo\images\polo.jpg) top left repeat;
+	
+}
+
+.navbar-nav li{
+    font-size: 12px;
+    font-family: calibri;
+  }
+
+.navbar-brand{
+	font-size: 22px;
+
+}
+
+.mega-dropdown {
+  position: static !important;
+}
+
+.mega-dropdown-menu {
+    padding: 20px 0px;
+    width: 100%;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.mega-dropdown-menu > li > ul {
+  padding: 0;
+  margin: 0;
+}
+.mega-dropdown-menu > li > ul > li {
+  list-style: none;
+}
+.mega-dropdown-menu > li > ul > li > a {
+  display: block;
+  color: #222;
+  padding: 3px 5px 10px;
+  font-size: 15px;
+}
+.mega-dropdown-menu > li ul > li > a:hover,
+.mega-dropdown-menu > li ul > li > a:focus {
+  text-decoration: none;
+}
